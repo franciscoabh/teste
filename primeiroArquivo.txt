@@ -1,3 +1,4 @@
 teste
+Correção de bug!!
 Alteração no primeiro arquivo!!!
 Evolução após 1.0
