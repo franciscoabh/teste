@@ -1,2 +1,3 @@
 teste
+Correção de bug!!
 Alteração no primeiro arquivo!!!
