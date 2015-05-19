@@ -1,5 +1,7 @@
+Nova correção de bug!
 teste
 Correção de bug!!
 Alteração no primeiro arquivo!!!
 Evolução após 1.0
 Nova implementação!!!
+Correção de bug
