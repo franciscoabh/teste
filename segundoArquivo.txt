@@ -1,6 +1,7 @@
 Alteração no master!!!
 teste
 teste 2
+Evolução após 1.0
 teste 3
 teste 4
 Correção de bug!!
