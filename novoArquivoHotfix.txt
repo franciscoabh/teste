@@ -1,2 +1,2 @@
 Agora sim
-Com o conteúdo do hotfix
+Correção de bug
