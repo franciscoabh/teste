@@ -6,3 +6,5 @@ Evolução após 1.0sadf asdf asdf
 Nova implementação!!!
 Mais uma alteração
 Correção de bug
+
+Nova feature!!!!
