@@ -1,4 +1,4 @@
-Agora sim
+Agora sim (com correção)
 Correção de bug 123
 Nova implementação!!!
 Nova implementação 2!!!
